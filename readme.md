@@ -14,8 +14,8 @@
 - Expand and Simplify algebraic constructions
 - Give exact Radian Angles based on exact inputs
 - Give a visual representation of the exact radian unit circle
-- Do alot of more calculations on Perimeters, Volumes and Areas
-- Do Matrix calculations, calculate slope of lines and do Line regretion
+- Do a lot of more calculations on Perimeters, Volumes and Areas
+- Do Matrix calculations, calculate slope of lines and do Line regression
 
 ## Installation
 
