@@ -2,6 +2,7 @@
 ## The Essential Math Tool
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[Download Latest Version](https://github.com/ReindeBoer/XMath/raw/main/XMATH.8xp)
 
 ### XMath is built for the TI-84+ CE-T
 - It is suited for Algebra and Trigonometry
@@ -19,7 +20,7 @@
 
 XMath runs on a TI-84+ CE-T
 To Transfer the program to the calculator, You will need [TI-Connect CE](https://education.ti.com/nl/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware)
-- Download the XMATH.8xp file
+- [Download the XMATH.8xp](https://github.com/ReindeBoer/XMath/raw/main/XMATH.8xp) file
 - Install [TI-Connect CE](https://education.ti.com/nl/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware) on your computer
 - Connect your calculator to your computer using the data cable
 - Open the program TI-Connect CE you just installed
