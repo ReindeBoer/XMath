@@ -1,8 +1,7 @@
 # XMath
 ## The Essential Math Tool
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-#[Download Latest Version](https://github.com/ReindeBoer/XMath/raw/main/XMATH.8xp)
+[![Build Status](https://github.com/ReindeBoer/XMath/raw/main/XMATH.8xp)
 
 ### XMath is built for the TI-84+ CE-T
 - It is suited for Algebra and Trigonometry
