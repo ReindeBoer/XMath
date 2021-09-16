@@ -56,6 +56,6 @@ SOFTWARE.
 
 **Free Software, Hell Yeah!**
 
-   [github-user]: <https://github.com/reindeboer/>
-   [git-repo-url]: <https://github.com/reindeboer/XMath>
-   [my-website]: <https://controlgames.net>
+[Github User](https://github.com/reindeboer)
+[Github Repo](https://github.com/reindeboer/XMath)
+[Primary Website](https://controlgames.net)
