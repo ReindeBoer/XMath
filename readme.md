@@ -27,7 +27,6 @@ To Transfer the program to the calculator, You will need [TI-Connect CE](https:/
 - Open the program TI-Connect CE you just installed
 - In the top menu, click [Actions] and then click [Add Files From Computer]
 - Select the Downloaded XMATH.8xp file and click [Open]
-- Under 'Location' you will see 'RAM', click on this and change it to 'Archive'
 - Now click on [All Connected Calculators] and Click [Send]
 - If the program says 'XMATH already exists', click on [REPLACE]
 
