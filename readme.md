@@ -31,7 +31,6 @@ To Transfer the program to the calculator, You will need [TI-Connect CE](https:/
 - If the program says 'XMATH already exists', click on [REPLACE]
 
 ## License
-MIT License
 
 Copyright (c) 2021 Rein de Boer
 
