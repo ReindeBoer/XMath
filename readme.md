@@ -11,6 +11,7 @@
 
 ## Features
 - Utilize the ABC-Formula for root finding
+- Perform math with Vectors Equations and convert them to formulas
 - Expand and Simplify algebraic constructions
 - Give exact Radian Angles based on exact inputs
 - Give a visual representation of the exact radian unit circle
